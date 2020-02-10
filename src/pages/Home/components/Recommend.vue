@@ -1,5 +1,6 @@
 <template>
-  <div class="title">
+  <div>
+    <div class="title">热销推荐</div>
     <ul>
       <li
         class="item border-bottom"
@@ -73,7 +74,6 @@ export default{
       .item-button
         line-height: .44rem
         margin-top: .16rem
-        margin-left: .16rem
         background: #ff9300
         padding: 0 .2rem
         border-radius: .06rem
